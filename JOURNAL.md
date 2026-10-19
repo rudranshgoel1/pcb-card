@@ -5,6 +5,21 @@ description: "This will be my PCB Card with an NFC which opens my profile."
 created_at: "2026-06-01"
 ---
 
+# 2026-10-19: placement + antenna
+
+**Total time spent: 1.2 hour**
+
+# what did i do?
+- generated an antenna for the nfc card using [this](https://antennagenerator.com/tool)
+- imported that footprint in kicad
+- assigned footprints to each component
+- placed the components in kicad
+- genuinely took me some time coz the nfc was taking too much space and to fit the others, it would have been too big
+
+![Screenshot_2026-10-20_at_3.46.42_AM.png](https://cdn.hackclub.com/01a15647-799e-7b6b-ab99-3d7b2a568df4/Screenshot_2026-10-20_at_3.46.42_AM.png)
+![Screenshot_2026-10-20_at_3.56.19_AM.png](https://cdn.hackclub.com/01a15647-7aa8-7603-8565-b67b84964f0d/Screenshot_2026-10-20_at_3.56.19_AM.png)
+![Screenshot_2026-10-20_at_3.58.18_AM.png](https://cdn.hackclub.com/01a15647-b703-773b-91b8-c242f22de5a2/Screenshot_2026-10-20_at_3.58.18_AM.png)
+
 # 2026-10-19: schematic in kicad
 
 **Total time spent: 30 minutes**

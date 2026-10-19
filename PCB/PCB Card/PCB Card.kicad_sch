@@ -1127,7 +1127,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 135.89 107.188 90)
 			(hide yes)
 			(show_name no)
@@ -1207,7 +1207,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 110.49 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1298,7 +1298,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 125.73 90.4748 0)
 			(hide yes)
 			(show_name no)
@@ -1380,7 +1380,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "KiCad_Package:NFC_30x30_N5_Custom_YOLO_Mode"
 			(at 121.92 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -1460,7 +1460,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_why:XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH"
+		(property "Footprint" "Project Resources:XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH"
 			(at 121.92 83.82 0)
 			(hide yes)
 			(show_name no)
